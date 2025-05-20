@@ -7,7 +7,7 @@ This repository contains the complete SQL-based backend design for the **FitZone
 ## 📦 Repository Structure
 
 - `ERD_Diagram.png` - Visual representation of entity relationships.
-- `create_tables.sql` - SQL script for table creation.
+- `Fitzone Sport Club.sql` - SQL script for table creation.
 - `queries.sql` - SQL queries for analytics and reporting.
 
 ---
